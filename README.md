@@ -1,1 +1,1 @@
-![Header](./Github-header-Image.png)
+![Header](.github-header-image.png)
