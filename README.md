@@ -28,7 +28,7 @@
 
 
  <h3 align="left">💻 Tech Stack :</h3>
- <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="40%" align="right" />
+ <img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="30%" align="right" />
 <!--  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" /> -->
 
 ###
