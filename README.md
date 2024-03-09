@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Mitesh Barve</h1>
 <h3 align="center">I’m a Third-year engineering student from Pune.</h3>
 
-# 💫 About Me:
+ <h3 align="left">💫 About Me:</h3>
 - 🔭 I’m currently working on **React.js**
 
 - 🌱 I’m currently learning **Web-development and Blockchain**
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **A programmer in Japan wrote an AI program to generate pickup lines. The AI's favorite line was, "Are you a candle? Because you light up my database!"**
 
-# 🌏 Connect with me:
+<h3 align="left"> 🌏 Connect with me :</h3>
 
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mitesh-barve-b2a0991a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mitesh-barve-b2a0991a5/" height="30" width="40" /></a>
@@ -23,7 +23,9 @@
 <a href="https://codepen.io/https://codepen.io/mitesh-barve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mitesh-barve" height="30" width="40" /></a>
 </p>
 
-# 💻 Tech Stack:
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+ <h3 align="left">💻 Tech Stack :</h3>
  <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
@@ -114,9 +116,50 @@
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
 </div>
 
+<br></br>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
 ###
 
-# 📊 GitHub Stats:
+ <h3 align="left">📊 GitHub Stats :</h3>
+ 
+<p align="center">
+  <a href="https://github.com/Mitesh-Barve">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mitesh-Barve&theme=radical&border=7F3FBF&background=0D1117" alt="Mitesh-Barve's GitHub streak"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Mitesh-Barve">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mitesh-Barve&theme=radical" alt="Mitesh-Barve's GitHub Contribution"/>
+  </a>
+</p>
+
+<a> 
+    <a href="https://github.com/Mitesh-Barve"><img alt="Mitesh-Barve's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Mitesh-Barve&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Mitesh-Barve"><img alt="Mitesh-Barve's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Mitesh-Barve&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <br/>
+</a>
+
+![Mitesh-Barve's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mitesh-Barve&custom_title=Mitesh-Barve's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+ <h3 align="left">🎖️ Daily Contributions :</h3>
+
+
+
+
+###
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+
+
+
 
 
 
