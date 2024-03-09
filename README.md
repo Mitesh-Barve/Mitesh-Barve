@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Web-development and Blockchain**
 
-- 💬 Ask me about **Webdev,solidity,Web3 and DSA**
+- 💬 Ask me about **Webdev , solidity, Web3 and DSA**
 
 - 📫 How to reach me **miteshbarve007@gmail.com**
 
@@ -124,11 +124,15 @@
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<div style="display: flex; align-items: center;">
 
- [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=monokai&quote=C+makes+it+easy+to+shoot+yourself+in+the+foot%3B+C%2B%2B+makes+it+harder%2C+but+when+you+do+it+blows+your+whole+leg+off.&author=Bjarne+Stroustrup)](https://github.com/piyushsuthar/github-readme-quotes)
- <img src="good-times.svg" width="220px" padding="">
+<div align="center">
+    <img src="https://i.imgur.com/KXx0cCx.gif" align="right" width="373.5px" height="208.5px">
 </div>
+<br>
+<p align="center">Thank you for taking the time to explore! <br>
+Feel free to reach out with any questions or suggestions. Wishing you all the best, and please visit again! 😊🌟</p>
+<h3 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h3>
+
 
 <div align="center">
  <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
