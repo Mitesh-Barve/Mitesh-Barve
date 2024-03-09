@@ -6,6 +6,7 @@
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
  <h3 align="left">💫 About Me:</h3>
+ 
 - 🔭 I’m currently working on **React.js**
 
 - 🌱 I’m currently learning **Web-development and Blockchain**
