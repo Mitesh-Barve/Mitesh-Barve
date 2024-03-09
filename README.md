@@ -144,7 +144,7 @@
 
 ![Mitesh-Barve's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mitesh-Barve&custom_title=Mitesh-Barve's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
- <h3 align="left">🎖️ Daily Contributions :</h3>
+ <h3 align="left">🎖️ Contributions :</h3>
 
 
 
