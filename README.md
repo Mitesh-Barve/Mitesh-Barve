@@ -3,6 +3,8 @@
 <!-- -->
 <h3 align="center">I’m a Third-year engineering student from Pune.</h3>
 
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
  <h3 align="left">💫 About Me:</h3>
 - 🔭 I’m currently working on **React.js**
 
