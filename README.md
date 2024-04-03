@@ -25,6 +25,8 @@
 <a href="https://auth.geeksforgeeks.org/user/miteshbarve77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/miteshbarve77" height="30" width="40" /></a>
 <a href="https://twitter.com/miteshtwt007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="miteshtwt007" height="30" width="40" /></a>
 <a href="https://codepen.io/mitesh-barve" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/mitesh-barve" height="30" width="40" /></a>
+
+
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
