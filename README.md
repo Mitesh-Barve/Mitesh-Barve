@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **miteshbarve007@gmail.com**
 
-- ⚡ Fun fact **A programmer in Japan wrote an AI program to generate pickup lines. The AI's favorite line was, "Are you a candle? Because you light up my database!"**
+- ⚡ Fun fact **"Absence of Evidence is not Evidence of Absence"**
 
 <h3 align="left"> 🌏 Connect with me :</h3>
 
