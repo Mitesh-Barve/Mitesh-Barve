@@ -1,7 +1,7 @@
 ![Header](./github-header-image.png)
 <h1 align="center">Hi 👋, I'm Mitesh Barve</h1>
 <!-- -->
-<h3 align="center">I’m a Third-year engineering student from Pune.</h3>
+<h3 align="center">I’m a Fourth-year engineering student from Pune.</h3>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
